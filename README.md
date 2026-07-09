@@ -96,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
