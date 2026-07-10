@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
