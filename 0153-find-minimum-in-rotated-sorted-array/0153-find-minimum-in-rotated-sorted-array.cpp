@@ -1,6 +1,16 @@
-class Solution {
+class Solution { 
 public:
     int findMin(vector<int>& nums) {
-        return *partition_point(nums.begin(), nums.end(), [&](int n) { return n > nums.back(); });
+        int s = 0;
+        int e = nums.size()-1;
+        while(s<e){
+            int mid = s + (e-s) / 2;
+            if(nums[mid] > nums[e]){
+                s = mid + 1;
+            }else{
+                e = mid;
+            }
+        }
+        return nums[s];
     }
 };
