@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 ## Recursion
 |  |
 | ------- |
