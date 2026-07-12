@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 ## Binary Search Tree
