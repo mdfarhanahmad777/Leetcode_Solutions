@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
