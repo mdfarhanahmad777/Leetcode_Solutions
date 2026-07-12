@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Backtracking
@@ -192,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
