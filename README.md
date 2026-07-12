@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
