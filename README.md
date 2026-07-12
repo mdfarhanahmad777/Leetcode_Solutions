@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
