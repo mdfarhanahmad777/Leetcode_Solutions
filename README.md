@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
