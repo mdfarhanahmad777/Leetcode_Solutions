@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
