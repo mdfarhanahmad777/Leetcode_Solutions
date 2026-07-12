@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Memoization
