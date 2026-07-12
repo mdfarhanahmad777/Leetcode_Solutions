@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 ## String
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
