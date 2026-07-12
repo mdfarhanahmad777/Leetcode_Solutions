@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
