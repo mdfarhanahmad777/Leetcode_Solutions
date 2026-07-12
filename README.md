@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
