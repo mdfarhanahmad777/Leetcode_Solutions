@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
