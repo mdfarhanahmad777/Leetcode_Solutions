@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Recursion
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Backtracking
