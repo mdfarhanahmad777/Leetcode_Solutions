@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Backtracking
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
