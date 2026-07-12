@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Prefix Sum
 |  |
 | ------- |
