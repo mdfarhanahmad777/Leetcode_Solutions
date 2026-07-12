@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
