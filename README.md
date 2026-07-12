@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Recursion
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
