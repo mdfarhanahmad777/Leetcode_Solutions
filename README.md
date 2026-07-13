@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0507-perfect-number) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0461-hamming-distance) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0401-binary-watch) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Binary Search Tree
 |  |
 | ------- |
