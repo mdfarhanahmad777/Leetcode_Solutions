@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Recursion
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
