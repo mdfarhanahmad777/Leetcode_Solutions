@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -443,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
