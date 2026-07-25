@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0733-flood-fill) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Sorting
