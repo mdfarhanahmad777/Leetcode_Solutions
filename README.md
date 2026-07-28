@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1958-check-if-move-is-legal](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1958-check-if-move-is-legal) |
 ## Stack
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1958-check-if-move-is-legal](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1958-check-if-move-is-legal) |
 ## Design
 |  |
 | ------- |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Enumeration
+|  |
+| ------- |
+| [1958-check-if-move-is-legal](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1958-check-if-move-is-legal) |
 <!---LeetCode Topics End-->
