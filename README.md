@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Tree
 |  |
 | ------- |
