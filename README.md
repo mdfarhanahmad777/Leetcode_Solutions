@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Binary Search Tree
 |  |
@@ -480,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1958-check-if-move-is-legal](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1958-check-if-move-is-legal) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
