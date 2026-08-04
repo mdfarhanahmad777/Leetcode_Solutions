@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
