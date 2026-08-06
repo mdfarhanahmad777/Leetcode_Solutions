@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0355-design-twitter) |
 ## Database
 |  |
 | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Brainteaser
 |  |
