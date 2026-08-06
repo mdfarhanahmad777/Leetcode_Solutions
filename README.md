@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0415-add-strings) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
