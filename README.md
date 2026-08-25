@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0326-power-of-three) |
@@ -543,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
