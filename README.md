@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
