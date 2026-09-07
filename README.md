@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
