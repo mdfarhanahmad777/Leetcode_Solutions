@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -572,4 +575,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
