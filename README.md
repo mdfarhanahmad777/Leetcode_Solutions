@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
