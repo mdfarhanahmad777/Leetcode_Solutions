@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mdfarhanahmad777/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
